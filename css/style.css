@@ -55,10 +55,7 @@ nav a:hover{
     overflow: hidden;
     background-color: #2F2E2E ;
     box-shadow: 1px 5px 25px forestgreen; 
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 100px;  
+    
 }
 .card img{
     width: 100%;
@@ -77,6 +74,12 @@ nav a:hover{
 .card-content{
     padding: 10px;
     
+}
+.card1{
+    display: flex;
+    align-items: stretch;
+    justify-content:space-around;
+
 }
 
 
